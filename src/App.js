@@ -50,9 +50,9 @@ function App() {
 
   const columns = [
     {
-      title: "BRND NAME",
-      dataIndex: "BRND NAME",
-      key: "BRND NAME",
+      title: "BRAND NAME",
+      dataIndex: "BRAND NAME",
+      key: "BRAND NAME",
     },
     {
       title: "SHOP NO",
